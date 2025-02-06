@@ -1,2 +1,2 @@
-# AptBuzz
-An application used to help people who share an apartment communicate.
+# BetTracker
+An application used to help track their bets live. 
